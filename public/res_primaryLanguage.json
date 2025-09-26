@@ -91,22 +91,30 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Kartverket",
+        "title": "Full Stack Developer",
+        "years": "09.2024 - 12.2024",
         "mainTech": [
-          "Angular 8/9/10"
+          ".NET Core"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "C#",
+          "CSS",
+          "HTML",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Visual Basic 6.0",
+          "Dockerfile"
+        ]
+      },
+      {
+        "company": "Digin",
+        "title": "Figma",
+        "years": "01.2025 - 06.2025",
+        "mainTech": [
+          "Figma"
+        ],
+        "technologies": [
+          "Figma"
         ]
       }
     ]
